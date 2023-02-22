@@ -1,0 +1,1 @@
+This repository contains the source code for assets used on Ottawa Nerd Corp's [Medium publication](https://medium.com/ottawa-nerd-corp).
