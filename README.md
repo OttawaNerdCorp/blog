@@ -1,1 +1,1 @@
-This repository contains the source code for assets used on Ottawa Nerd Corp's [Medium publication](https://medium.com/ottawa-nerd-corp).
+This repository contains Ottawa Nerd Corp's public-facing documentation. This includes policy documents as well as source code for assets used in our [Medium publication](https://medium.com/ottawa-nerd-corp).
