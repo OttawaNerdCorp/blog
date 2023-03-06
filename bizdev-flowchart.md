@@ -9,8 +9,9 @@ flowchart TB
     s4 -- Buy web domain registration --> s5(Business named for real)
     s5 -- Create GitHub organization, free tier--> s6(Digital workspace created)
     s6 -- Create social media pages<br>Facebook, Instagram, LinkedIn, Medium, Twitter --> s7(Business name secured on social media)
-    s7 -- Design logo --> s8(Business has face to go with name)
-    s8 -- Launch initial website --> s9(Open for business)
-    s9 -- Announce website launch on social media --> s10(Business publicized)
-    s10 -- Print businesss cards --> s11( )
+    s7 -- Design logo, add to social media --> s8(Business has face to go with name)
+    s8 -- Buy work phone, add number to social media --> s9(Business identity separated from personal identity)
+    s9 -- Launch initial website --> s10(Open for business)
+    s10 -- Announce website launch on social media --> s11(Business publicized)
+    s11 -- Print businesss cards --> s12( )
 ```
