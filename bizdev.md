@@ -1,7 +1,7 @@
 <!-- TODO: remove future tense --> This pages describes the steps that were taken—or will be taken—to launch Ottawa Nerd Corp as a business. 
 
 ## Overview
-The following flowchart is a [state machine](https://en.wikipedia.org/wiki/Finite-state_machine) that shows how the business is evolving from an idea into a reality>. It contains the following elements:<!-- TODO: past tense -->
+The following flowchart is a [state machine](https://en.wikipedia.org/wiki/Finite-state_machine) that shows how the business is evolving from an idea into a reality. It contains the following elements:<!-- TODO: past tense -->
 * **Rounded box:** Represents a state of the business—past, present or future. Yellow boxes represent future states. 
 * **Arrow:** Indicates an action required to take the business from one state to the next. 
 * **Diamond:** Indicates an important decision to be made before taking the next step.
