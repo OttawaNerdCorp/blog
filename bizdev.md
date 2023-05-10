@@ -16,8 +16,8 @@ flowchart TB
     s0((Start)) -- Have idea for business --> s1(Business conceived)
     s1 -- Come up with name --> d1
     d1{Is name available?}
-    d1 -- Yes --> s1
-    d1 -- No --> s2(Business tentatively named)
+    d1 -- No --> s1
+    d1 -- Yes --> s2(Business tentatively named)
     s2 -- Buy .com web domain<br>Create GitHub organization<br>Create social media pages --> s3(Business name secured on World Wide Web):::todo
     s3 --> d2{Ownership structure:<br>Sole proprietorship or corporation?}
     d2 -- Consider incorporating --> s5( )
