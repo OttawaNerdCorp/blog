@@ -25,7 +25,7 @@ flowchart TB
     s6 --> d3{Incorporate provincially or federally?}:::todo
     d3 -- Incorporate federally --> s7(Business name secured Canada-wide):::todo
     s7 -- Design logo, add to social media --> s8(Business has face to go with name):::todo
-    s8 -- Buy work phone, add number to social media --> s9(Business identity separated from personal identity):::todo
+    s8 -- Buy work phone, add number to social media --> s9(Business identity separated from founder identity):::todo
     s9 -- Launch initial website --> s10(Open for business):::todo
     s10 -- Announce website launch on social media --> s11(Business publicized):::todo
     s11 -- Print businesss cards --> s13(Ready to advertise business at networking events):::todo
