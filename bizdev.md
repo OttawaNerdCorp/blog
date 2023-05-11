@@ -57,7 +57,7 @@ The name Ottawa Nerd Corp was inspired by this story I wrote in a family chat ab
 Before this day, I had only vague daydreams of wanting to be self-employed. The minute I sent the above message though, the term `Ottawa nerd` and my daydreams came together like steel and flint, creating the spark of an actionable idea—buy `ottawanerdcorp.com` *now*.
 
 The name appealed to me for several reasons:
-1. **It's humurously self-aware.** 
+1. **It's homourously self-aware.** 
 
     Computeer engineer, software developer, software engineer, IT consultant... The average non-tech person doesn't know and/or care what the difference is. They just want a computer nerd to solve their IT problems or build their app idea. I believe there is value in acknolwedging that and being relateable to those who need my skills but don't share my passion for infotech.
 
