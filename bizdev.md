@@ -89,7 +89,7 @@ The name did create a slight problem: in Canada only corporations can legally us
 
 However, as the CEO and sole shareholder of my own company I believe I am entitled to make inadvisable decisions if I consider them to be in the company's best interest. 
 
-Taking into consideration the above points, no proposed other alternatives are as satisfying as `Ottawa Nerd Corp`. I therefore contend that overhead of incorporation is worth it to have the name I want.
+Taking into consideration the above points, no proposed other alternatives are as satisfying as `Ottawa Nerd Corp`. I therefore contend that the overhead of a corporation is worth having the business name I want.
 
 A company is, as Yuval Harrarri said, only as good as its name. <!-- TODO: get actual quote >
 
