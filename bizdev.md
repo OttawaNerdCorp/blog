@@ -91,7 +91,7 @@ However, as the CEO and sole shareholder of my own company I believe I am entitl
 
 Taking into consideration the above points, no proposed other alternatives are as satisfying as `Ottawa Nerd Corp`. I therefore contend that the overhead of a corporation is worth having the business name I want.
 
-A company is, as Yuval Harrarri said, only as good as its name. <!-- TODO: get actual quote >
+A company is, as Yuval Harrari said, only as good as its name. <!-- TODO: get actual quote -->
 
 <!-- TODO
 ### Is name available?
