@@ -6,7 +6,7 @@ I'm also hoping that this may help others start their own business—a prospect 
 
 ## Overview
 The following flowchart is a [state machine](https://en.wikipedia.org/wiki/Finite-state_machine) that shows how the business is evolving from an idea into a reality. It contains the following elements:<!-- TODO: past tense -->
-* **Rounded box:** Represents a state of the business—past, present or future. Yellow boxes represent future states. 
+* **Rounded box:** Represents a state of the business—past, present or future. Boxes with yellow outlines and italic text represent future states. 
 * **Arrow:** Indicates an action required to take the business from one state to the next. 
 * **Diamond:** Indicates an important decision to be made before taking the next step.
 
@@ -17,7 +17,7 @@ This graph should **not** be used as a map for others looking to start their own
 <!-- TODO: Clean up state IDs -->
 ```mermaid
 flowchart TB
-    classDef todo stroke:yellow
+    classDef todo stroke:yellow,font-style:italic
 
     s0((Start)) -- Have idea for business --> s1(Business conceived)
     s1 -- Come up with name --> d1
