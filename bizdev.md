@@ -59,7 +59,7 @@ Before this day, I had only vague daydreams of wanting to be self-employed. The 
 The name appealed to me for several reasons:
 1. **It's homourously self-aware.** 
 
-    Computeer engineer, software developer, software engineer, IT consultant... The average non-tech person doesn't know or care what the difference is. They just want a computer nerd to solve their IT problems or build their app idea. I believe there is value in acknolwedging that and being relateable to those who need my skills but don't share my passion for infotech.
+    Computeer engineer, software developer, software engineer, IT consultant... The average non-tech person doesn't know or care what the difference is. They just want a computer nerd to solve their IT problems or build their app idea. I believe there is value in acknowledging that and being relateable to those who need my skills but don't share my passion for infotech.
 
     I firmly believe there is room for humour in the infotech consulting world. A funny name makes the company memorable. I'll let the other guys do the job of being boring.
 
