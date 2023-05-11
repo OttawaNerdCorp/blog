@@ -24,7 +24,7 @@ flowchart TB
     d1{Is name available?}
     d1 -- No --> s1
     d1 -- Yes --> s2(Business tentatively named)
-    s2 -- Buy .com web domain<br>Create social media pages<br>Create GitHub organization --> s3(Business name secured on World Wide Web):::todo
+    s2 -- Buy .com and .ca web domains<br>Create social media pages<br>Create GitHub organization --> s3(Business name secured on World Wide Web):::todo
     s3 --> d2{Ownership structure:<br>Sole proprietorship or corporation?}
     d2 -- Corporation --> d3{Incorporate provincially or federally?}:::todo
     d3 -- Incorporate federally --> s7(Business name secured Canada-wide):::todo
@@ -97,7 +97,7 @@ To determine whether `Ottawa Nerd Corp` was available, I started by:
 2. Searching on Google, both for exact matches and just as keywords (`"ottawa nerd corp"` and `ottawa nerd corp`)
 3. Searching in the [Ontario Business Registry](https://www.ontario.ca/page/ontario-business-registry)
 
-Ideally perhaps this kind of search should include [Nuans](https://ised-isde.canada.ca/site/nuans-corporate-name-trademark-reports/en) report but it didn't seem worth it at the time—I was already planning to incorporate by that point, which includes a Nuans search in the process.
+Perhaps the search should have included a [Nuans](https://ised-isde.canada.ca/site/nuans-corporate-name-trademark-reports/en) report but it didn't seem worth it at the time. I was already planning to incorporate by that point—a  Nuans search is included in the process.
 
 One very important thing I neglected to consider was whether the business name was *legal*. 
 
@@ -113,12 +113,14 @@ A Google search led me to [Ontario Regulation 399/21](https://www.ontario.ca/law
 
 Herein lay my first dilemma. Incorporating just to be able to use "Corp" in the business name sounds like a bad idea. But registering as a sole proprietor would mean giving up on the name that I firmly believed was most optimal for the business.
 
-In the end I decided to incorporate, as I explain further below. So far I haven't regretted that decision. What I would do differently, though, is to start with registering the business *before* committing to any name by buying web domains, creating social media accounts, etc.
+In the end I decided to incorporate, as explained [below](#ownership-structure-sole-proprietorship-or-corporation). So far I haven't regretted that decision. What I *would* do differently is register the business *before* committing to any name by buying web domains, creating social media accounts, etc.
 
-### Buy `.com` web domain
+### Buy `.com` and `.ca` web domain
 It was important to me that the business have a `.com` website. Not `.co`, not `.net`, and *definitely* not `.xyz`.
 
 I don't have the data to back this up, but these other gTLDs seem like they would be suboptimal from a marketing perspective. It seems to me like the average person expects a website to end with `.com` or the ccTLD of their country. Anything else I think would be generally perceived as odd and perhaps less legitimate.
+
+I also purchased `ottawanerdcorp.ca` for good measure. It seemed like something someone might type in their address bar.
 
 In hindsight, I wish I had confirmed the business name with the government before purchasing the domain, in case the government decided I couldn't use it. At the time, I was just excited about getting started. The domain was a low-hanging fruit.
 
@@ -138,7 +140,7 @@ To guarantee the business had a proper web presence (and didn't have its name st
 ### Ownership structure: Sole proprietorship or corporation?
 As mentioned above, the business had to be incoporated in order to use `Ottawa Nerd Corp` as a name.
 
-I acknolwedge that this is a rather silly reason to incorporate, given the overhead involved in doing so. As a one-man shop with no sales nor liability (yet), I was advised by several people to register as a sole proprietor and simply choose a different business name.
+I acknowledge that this is a rather silly reason to incorporate, given the overhead involved in doing so. As a one-man shop with no sales nor liability (yet), I was advised by several people to register as a sole proprietor and simply choose a different business name.
 
-However, I really did believe that Ottawa Nerd Corp was the best possible name for my business, for the reasons stated [above](#come-up-with-name). I suppose time will tell whether there's any truth to that, or if it was just my conceit.
+However, I really did believe that Ottawa Nerd Corp was the best possible name for my business, for the reasons stated [above](#come-up-with-name). I suppose time will tell whether there's any truth to that, or if it was just my pride talking.
 
