@@ -85,7 +85,7 @@ The name appealed to me for several reasons:
    
    Fitting, for a company of self-proclaimed nerds.
 
-The name did create a slight problem: in Canada only corporations can legally use the abbreviation `Corp` in their business name. This is causing me to incorporate much sooner than would be advisable in the current situation—at this point the business is still a one-man shop with no sales and no liability. Surely the wiser decision—the one suggested to me by friends and family—was to simply choose a different name?<!-- TODO: past tense -->
+The name did create a slight problem: in Canada only corporations can legally use the abbreviation `Corp` in their business name. This is causing me to incorporate much sooner than would be advisable in the current situation—at this point the business is still a one-man shop with no sales and no liability. Surely the wiser decision—the one suggested to me by several friends and famil members—would be to simply choose a different name?<!-- TODO: past tense -->
 
 However, as the CEO and sole shareholder of my own company I believe I am entitled to make inadvisable decisions if I consider them to be in the company's best interest. 
 
