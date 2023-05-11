@@ -20,9 +20,7 @@ flowchart TB
     d1 -- Yes --> s2(Business tentatively named)
     s2 -- Buy .com web domain<br>Create GitHub organization<br>Create social media pages --> s3(Business name secured on World Wide Web):::todo
     s3 --> d2{Ownership structure:<br>Sole proprietorship or corporation?}
-    d2 -- Corporation --> s5( )
-    s5 -- Fully understand ramifications of incorporating --> s6(Ready to incorporate):::todo
-    s6 --> d3{Incorporate provincially or federally?}:::todo
+    d2 -- Corporation --> d3{Incorporate provincially or federally?}:::todo
     d3 -- Incorporate federally --> s7(Business name secured Canada-wide):::todo
     s7 -- Design logo, add to social media --> s8(Business has face to go with name):::todo
     s8 -- Buy work phone, add number to social media --> s9(Business identity separated from founder identity):::todo
