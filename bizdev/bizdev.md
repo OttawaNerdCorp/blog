@@ -1,6 +1,6 @@
 This document serves to record the development of Ottawa Tech Nerds as a business. Whether the business succeeds or fails, the hope is that having a written record of what happened will help inform future business endeavors. At the very least, we can use it as source material for talks or blog articles.
 
-The document thus contains two sections. [What Should've Happened](#what-shouldve-happened) consists of a flowchart representing what I  think would have been the ideal path for us to take. This is based on what I learned from [What Actually Happened](#what-actually-happened), which is a description of how the business actually developed, the mistakes that were made, and what wish I had done differently.
+The document thus contains two sections. [What Should've Happened](#what-shouldve-happened) consists of a flowchart representing what we think would have been the ideal path for us to take. This is based on what we learned from [What Actually Happened](#what-actually-happened), which is a description of how the business actually developed, the mistakes that were made, and what wish we had done differently.
 
 - [What Should've Happened](#what-shouldve-happened)
 - [What Actually Happened](#what-actually-happened)
