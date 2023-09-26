@@ -37,14 +37,22 @@ flowchart TB
     nameAvailibility -- No --> conceived
     tentativelyNamed --> ownershipStructure{Decide ownership structure<br>and register business}
     ownershipStructure -- Register as sole propietorship --> solePropRegistered(Sole proprietorship registered)
+
     solePropRegistered -- Open business bank accounts --> separateAccounts(Business expenses separated from personal)
-    solePropRegistered -- Create social media accounts --> nameSecured(Business name secured on World Wide Web)
+    separateAccounts --> _taxReady( )
+    _taxReady -- Start bookkeeping --> taxReady(Prepared for tax season<br>Ready for further expenses)
+
     solePropRegistered -- Buy web domains --> domainSecured(Domain name secured)
-    domainSecured -- Create social media accounts --> nameSecured
+    domainSecured -- Create social media accounts --> nameSecured(Business name secured on World Wide Web)
+    nameSecured --> _taxReady
+
+
+    solePropRegistered -- Create GitHub organization --> gitHubSecured(GitHub name secured)
+    gitHubSecured -->  digitalWorkspace
+    gitHubSecured --> nameSecured
     domainSecured -- Buy office suite --> digitalWorkspace(Digital workspace established)
-    solePropRegistered -- Create GitHub organization --> digitalWorkspace
-    nameSecured -- Start bookkeeping --> taxReady(Ready for tax season)
-    digitalWorkspace -- Start bookkeeping --> taxReady
+
+    digitalWorkspace --> _taxReady
     taxReady -- Design logo<br>Add logo to social media accounts --> hasLogo(Business has face to go with name)
 ```
 
@@ -159,9 +167,9 @@ To guarantee the business had a proper web presence (and didn't have its name st
 * Medium
 * Twitter
 
-
 ### Create GitHub organization<!-- TODO -->
-
+Issues, projects
+Business email for work commits, allow only commits from business names
 
 ### Buy office suite<!-- TODO -->
 
