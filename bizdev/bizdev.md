@@ -21,10 +21,10 @@ The document thus contains two sections. [What Should've Happened](#what-shouldv
 ## What Should've Happened
 The following flowchart shows an idealized version of how I think the business *should* have evolved. 
 
-The diagram contains the following elements:
-* **Rounded boxes** represent thestate of the business.
-* **Arrow:** Indicates an action required to take the business from one state to the next. 
-* **Diamond:** Indicates an important decision to be made before taking the next step.
+The diagram consists of these shapes:
+* **Rounded box:** A state of the business at a point in time.
+* **Arrow:** An action required to take the business from one state to the next. 
+* **Diamond:** An important decision to be made before taking the next step.
 
 Elements of this graph are described in further detail in the next section.
 
